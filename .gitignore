@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.pytest_cache/
+outputs/*.json
+outputs/*.csv
+outputs/*.md
+!outputs/.gitkeep
+.DS_Store
