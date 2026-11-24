@@ -1,0 +1,13 @@
+listing_id,category,title,sku,condition,is_graded,source_market,source_cost_jpy,coupon_pct,target_ebay_usd,dest_zone,shipping_method,weight_g,is_sold,expected_action
+L001,poke,Iono SAR 252/190 Japanese,252/190,Excellent,false,flea_market,2400,10,62.0,us,spk,50,false,BUY
+L002,poke,Charizard ex SAR 201/165,201/165,Near Mint,false,flea_market,3000,0,75.0,us,spk,50,false,REVIEW
+L003,poke,Umbreon VMAX Alt Art 095/069,095/069,Excellent,false,auction,7000,0,145.0,us,spk,60,false,REVIEW
+L004,onep,Monkey D. Luffy Leader Parallel,OP01-001,Excellent,false,flea_market,1600,5,55.0,us,spk,50,false,BUY
+L005,onep,Roronoa Zoro Parallel,OP01-025,Lightly Played,false,flea_market,4500,0,35.0,us,spk,50,false,PASS
+L006,poke,Pikachu Promo 001/SM-P,001/SM-P,Excellent,true,shop,3800,0,88.0,us,spk,120,false,BUY
+L007,poke,Marnie SR 196/190 (Suspicious Low Price),196/190,Near Mint,false,flea_market,400,0,92.0,us,spk,50,false,REVIEW
+L008,poke,Duplicate Entry Test Iono SAR,252/190,Excellent,false,flea_market,2400,10,62.0,us,spk,50,false,BUY
+L009,poke,Already Sold Listing Example,088/071,Excellent,false,flea_market,2000,0,60.0,us,spk,50,true,PASS
+L010,other,Invalid Negative Price Row,BAD-001,Excellent,false,flea_market,-500,0,50.0,us,spk,50,false,PASS
+L011,poke,Mew ex SAR 347/190,347/190,Excellent,false,flea_market,3100,10,72.0,us,spk,50,false,BUY
+L012,onep,Yamato SEC Parallel,OP04-112,Excellent,false,auction,5500,0,52.0,us,spk,50,false,PASS
